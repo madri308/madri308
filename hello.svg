@@ -25,7 +25,7 @@
           }
         }
 
-        .container {
+        .header {
           --color-main: #5452ee;
           --color-primary: #e73c7e;
           --color-secondary: #23a6d5;
@@ -53,7 +53,7 @@
         }
 
         @media (prefers-color-scheme: light) {
-          .container {
+          .header {
             --color-main: #F15BB5;
             --color-primary: #24b0ef;
             --color-secondary: #4526f6;
@@ -62,7 +62,7 @@
         }
 
         @media (prefers-reduced-motion) {
-          .container {
+          .header {
             animation: none;
           }
 
@@ -71,9 +71,12 @@
           }
         }
       </style>
-
       <div class="container">
-        <h1>Hi there, my name is Esteban <div class="hi">👋</div></h1>
+        <div class="header">
+          <h1>Hi there, my name is Esteban <div class="hi">👋</div></h1>
+        </div>
+        <div class="body">
+        </div>
       </div>
     </div>
   </foreignObject>
