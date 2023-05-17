@@ -17,7 +17,7 @@
     </tr>
 </table>
 
-| ## 🌐 Socials [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/estebanmadrigal) | ### ✍️ Random Dev Quote![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) |
+| \#\# 🌐 Socials<br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/estebanmadrigal) | \#\# ✍ Random Dev Quote! <br/>[](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) |
 | ------------- | ------------- |
 
 # 💻 Tech Stack
