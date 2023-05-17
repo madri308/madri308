@@ -1,7 +1,7 @@
 
 
 
-<table style="border:0px solid white;" >
+<table>
     <tr>
       <td colspan="2"><h1>💫 About Me</h1></td>
     </tr>
@@ -25,7 +25,7 @@
 
 ##
 
-| <h1>🌐 Socials</h1><br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/estebanmadrigal) | <h1>✍️ Random Dev Quote</h1><br/>![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) |
+| <h1 style="width:100%">🌐 Socials</h1><br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/estebanmadrigal) | <h1 style="width:100%">✍️ Random Dev Quote</h1><br/>![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) |
 | :--------- | :--------- |
 
 ## 🏆 GitHub Trophies
