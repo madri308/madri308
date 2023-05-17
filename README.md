@@ -26,7 +26,7 @@
 ##
 
 | <h1>🌐 Socials</h1><br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/estebanmadrigal) | <h1>✍️ Random Dev Quote</h1><br/>![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) |
-| ------------- | ------------- |
+| :--------- | :--------- |
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=madri308&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
