@@ -1,5 +1,98 @@
-# 💫 About Me:
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
+
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
+
+        .container {
+          --color-main: #5452ee;
+          --color-primary: #e73c7e;
+          --color-secondary: #23a6d5;
+          --color-tertiary: #ffff;
+
+          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+
+          width: 100%;
+          height: 300px;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+
+        @media (prefers-color-scheme: light) {
+          .container {
+            --color-main: #F15BB5;
+            --color-primary: #24b0ef;
+            --color-secondary: #4526f6;
+            --color-tertiary: #f6f645;
+          }
+        }
+
+        @media (prefers-reduced-motion) {
+          .container {
+            animation: none;
+          }
+
+          .hi {
+            animation: none;
+          }
+        }
+      </style>
+
+      <div class="container">
+        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+
+
+<table style="border:0px solid white;" >
+    <tr>
+      <td colspan="2"><h1>💫 About Me:</h1></td>
+    </tr>
+    <tr>
+      <td>
 Hello! My name is Esteban Madrigal and I am a Software Engineer. I love the challenge of finding solutions to complex problems, and I am always looking to collaborate on new projects related to coding. Currently, I am focused on learning more about frameworks related to web development, and I'm excited to see where that will take me.<br><br>When I'm not working on code, I love spending time with my plants. I find joy in watching them grow and thrive, and I'm always on the lookout for new additions to my collection. In fact, feel free to ask me anything about plants - I could talk about them for hours!<br><br>One thing you may not know about me is that I am visually impaired. I can't see with my left eye, but that hasn't stopped me from pursuing my passion for technology. In fact, I believe it has made me even more determined to succeed and overcome any obstacles that come my way.
+      </td>
+      <td>hola</td>
+    </tr>
+</table>
+
+
 
 
 ## 🌐 Socials:
