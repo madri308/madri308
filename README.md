@@ -1,6 +1,4 @@
-<div style="width: 100%;">
-  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+
 
 
 <table style="border:0px solid white;" >
@@ -9,9 +7,13 @@
     </tr>
     <tr>
       <td>
-Hello! My name is Esteban Madrigal and I am a Software Engineer. I love the challenge of finding solutions to complex problems, and I am always looking to collaborate on new projects related to coding. Currently, I am focused on learning more about frameworks related to web development, and I'm excited to see where that will take me.<br><br>When I'm not working on code, I love spending time with my plants. I find joy in watching them grow and thrive, and I'm always on the lookout for new additions to my collection. In fact, feel free to ask me anything about plants - I could talk about them for hours!<br><br>One thing you may not know about me is that I am visually impaired. I can't see with my left eye, but that hasn't stopped me from pursuing my passion for technology. In fact, I believe it has made me even more determined to succeed and overcome any obstacles that come my way.
+        <div style="width: 100%;">
+          <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
+        </div>
       </td>
-      <td>hola</td>
+      <td>
+      I am a Software Engineer. I love the challenge of finding solutions to complex problems, and I am always looking to collaborate on new projects related to coding. Currently, I am focused on learning more about frameworks related to web development, and I'm excited to see where that will take me.<br><br>When I'm not working on code, I love spending time with my plants. I find joy in watching them grow and thrive, and I'm always on the lookout for new additions to my collection. In fact, feel free to ask me anything about plants - I could talk about them for hours!<br><br>One thing you may not know about me is that I am visually impaired. I can't see with my left eye, but that hasn't stopped me from pursuing my passion for technology. In fact, I believe it has made me even more determined to succeed and overcome any obstacles that come my way.
+      </td>
     </tr>
 </table>
 
